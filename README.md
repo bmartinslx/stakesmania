@@ -1,2 +1,2 @@
 # stakesmania
-![stakesmania](/stakesmania/stakesmania.png)
+![stakesmania](/stakesmania.png)
